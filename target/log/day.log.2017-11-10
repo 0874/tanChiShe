@@ -1,0 +1,5 @@
+time: 2017-11-10 00:54:09[973] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:54:09[976] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:54:09[976] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:54:09[977] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:54:09[977] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】

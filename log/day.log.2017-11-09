@@ -1,0 +1,35 @@
+time: 2017-11-09 22:56:50[587] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:05:09[354] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:05:09[358] 耗时【4】 INFO aaa 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:06:19[857] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:06:19[861] 耗时【5】 INFO log4j init finish 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:29:00[273] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:29:00[277] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:29:00[278] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:29:00[279] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:29:00[279] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:36:17[561] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:36:17[565] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:36:17[566] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:36:17[566] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:36:17[566] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:17[857] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:37:17[862] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:17[862] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:17[863] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:17[863] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:37[266] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:37:37[270] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:37[270] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:37[270] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:37[271] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:57[635] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:37:57[638] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:57[638] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:57[639] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:37:57[639] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:41:04[999] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-09 23:41:05[003] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:41:05[003] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:41:05[004] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-09 23:41:05[004] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】

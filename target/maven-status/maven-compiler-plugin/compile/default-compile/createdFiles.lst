@@ -1,0 +1,6 @@
+main/Main.class
+model/MySnake.class
+view/MyWindow.class
+init/EnvironmentInit.class
+model/MyFood.class
+model/MyPoint.class

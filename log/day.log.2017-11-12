@@ -1,0 +1,37 @@
+time: 2017-11-12 02:49:21[562] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-12 02:49:21[567] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:21[568] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:21[568] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:21[569] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:21[569] 耗时【7】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:21[869] 耗时【307】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-12 02:49:21[873] 耗时【311】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-12 02:49:22[013] 耗时【451】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-12 02:49:22[063] 耗时【501】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-12 02:49:22[094] 耗时【532】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-12 02:49:25[383] 耗时【3821】 INFO 生成第1个food 线程【AWT-EventQueue-0】方法【<init>】类名【model.MyPoint】
+time: 2017-11-12 02:49:25[386] 耗时【3824】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-12 02:49:25[388] 耗时【3826】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-12 02:49:25[989] 耗时【4427】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:25[990] 耗时【4428】 INFO 蛇长度：3头位置：7,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:26[593] 耗时【5031】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:26[594] 耗时【5032】 INFO 蛇长度：3头位置：6,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:27[195] 耗时【5633】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:27[196] 耗时【5634】 INFO 蛇长度：3头位置：5,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:27[798] 耗时【6236】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:27[799] 耗时【6237】 INFO 蛇长度：3头位置：4,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:28[401] 耗时【6839】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:28[404] 耗时【6842】 INFO 蛇长度：3头位置：3,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:29[005] 耗时【7443】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:29[005] 耗时【7443】 INFO 蛇长度：3头位置：2,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:29[606] 耗时【8044】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:29[608] 耗时【8046】 INFO 蛇长度：3头位置：1,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:30[210] 耗时【8648】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:30[211] 耗时【8649】 INFO 蛇长度：3头位置：0,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:30[812] 耗时【9250】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:30[923] 耗时【9361】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-12 02:49:39[878] 耗时【18316】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-12 02:49:39[900] 耗时【18338】 INFO 蛇长度：3头位置：0,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:39[901] 耗时【18339】 INFO 行走发生异常：sleep interrupted 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:39[901] 耗时【18339】 INFO 挂起move线程 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-12 02:49:41[199] 耗时【19637】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】

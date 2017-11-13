@@ -1,0 +1,100 @@
+time: 2017-11-13 16:38:56[193] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-13 16:38:56[219] 耗时【26】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:56[220] 耗时【27】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:56[220] 耗时【27】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:56[221] 耗时【28】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:56[222] 耗时【29】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:56[943] 耗时【750】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-13 16:38:56[976] 耗时【783】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-13 16:38:57[895] 耗时【1702】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:38:57[899] 耗时【1706】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-13 16:38:58[371] 耗时【2178】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:38:59[432] 耗时【3239】 INFO 生成第1个food 线程【AWT-EventQueue-0】方法【<init>】类名【model.MyPoint】
+time: 2017-11-13 16:38:59[433] 耗时【3240】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-13 16:38:59[435] 耗时【3242】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-13 16:39:00[036] 耗时【3843】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:00[037] 耗时【3844】 INFO 蛇长度：3头位置：7,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:00[644] 耗时【4451】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:00[644] 耗时【4451】 INFO 蛇长度：3头位置：6,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:01[245] 耗时【5052】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:01[246] 耗时【5053】 INFO 蛇长度：3头位置：5,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:01[847] 耗时【5654】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:01[847] 耗时【5654】 INFO 蛇长度：3头位置：4,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:02[448] 耗时【6255】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:02[448] 耗时【6255】 INFO 蛇长度：3头位置：3,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:03[049] 耗时【6856】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:03[050] 耗时【6857】 INFO 蛇长度：3头位置：2,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:03[651] 耗时【7458】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:03[652] 耗时【7459】 INFO 蛇长度：3头位置：1,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:04[253] 耗时【8060】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:04[253] 耗时【8060】 INFO 蛇长度：3头位置：0,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:04[854] 耗时【8661】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:05[518] 耗时【9325】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-13 16:39:06[330] 耗时【10137】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:39:06[351] 耗时【10158】 INFO 蛇长度：3头位置：0,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:06[352] 耗时【10159】 INFO 行走发生异常：sleep interrupted 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:06[352] 耗时【10159】 INFO 挂起move线程 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 16:39:10[231] 耗时【14038】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:43:56[631] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-13 16:43:56[635] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:56[636] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:56[636] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:56[637] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:56[638] 耗时【7】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:56[993] 耗时【362】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-13 16:43:56[999] 耗时【368】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-13 16:43:57[181] 耗时【550】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:43:57[246] 耗时【615】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:43:57[251] 耗时【620】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-13 16:43:58[508] 耗时【1877】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:43:58[510] 耗时【1879】 INFO 如果游戏未完成，那么将进行保存状态到本地 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:44:02[685] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-13 16:44:02[688] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:02[689] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:02[689] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:02[690] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:02[690] 耗时【5】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:03[042] 耗时【357】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-13 16:44:03[048] 耗时【363】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-13 16:44:03[195] 耗时【510】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:03[197] 耗时【512】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-13 16:44:03[318] 耗时【633】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:44:07[567] 耗时【4882】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:44:07[568] 耗时【4883】 INFO 如果游戏未完成，那么将进行保存状态到本地 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:44:20[912] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-13 16:44:20[915] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:20[915] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:20[916] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:20[916] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:20[917] 耗时【5】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:21[164] 耗时【252】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-13 16:44:21[168] 耗时【256】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-13 16:44:21[281] 耗时【369】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 16:44:21[286] 耗时【374】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-13 16:44:21[367] 耗时【455】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:44:22[555] 耗时【1643】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-13 16:44:24[637] 耗时【3725】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 16:44:27[840] 耗时【6928】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 16:44:27[842] 耗时【6930】 INFO 如果游戏未完成，那么将进行保存状态到本地 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 17:06:11[743] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-13 17:06:11[747] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:11[747] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:11[750] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:11[751] 耗时【8】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:11[752] 耗时【9】 INFO 启动window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:11[990] 耗时【247】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-13 17:06:11[994] 耗时【251】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-13 17:06:12[099] 耗时【356】 INFO main方法语句完毕 线程【main】方法【main】类名【main.Main】
+time: 2017-11-13 17:06:12[102] 耗时【359】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-13 17:06:12[189] 耗时【446】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-13 17:06:16[728] 耗时【4985】 INFO 生成第1个food 线程【AWT-EventQueue-0】方法【<init>】类名【model.MyPoint】
+time: 2017-11-13 17:06:16[731] 耗时【4988】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-13 17:06:16[733] 耗时【4990】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-13 17:06:17[334] 耗时【5591】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:17[335] 耗时【5592】 INFO 蛇长度：3头位置：7,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:17[942] 耗时【6199】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:17[943] 耗时【6200】 INFO 蛇长度：3头位置：6,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:18[544] 耗时【6801】 INFO I am going... 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:18[545] 耗时【6802】 INFO 蛇长度：3头位置：5,6食物位置：MyPoint{x=0, y=0}总分:0 线程【Thread-0】方法【run】类名【view.GamePanel】
+time: 2017-11-13 17:06:18[715] 耗时【6972】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-13 17:06:18[717] 耗时【6974】 INFO 如果游戏未完成，那么将进行保存状态到本地：蛇头：【MyPoint{x=5, y=6}]食物：MyPoint{x=0, y=0}分数：0 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】

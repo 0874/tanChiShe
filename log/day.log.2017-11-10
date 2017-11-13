@@ -1,0 +1,890 @@
+time: 2017-11-10 00:31:52[797] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:31:52[801] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:31:52[802] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:31:52[802] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:31:52[803] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:36:07[967] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:36:07[971] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:36:07[971] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:36:07[972] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:36:07[972] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:41:25[628] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:52:29[038] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:52:34[594] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:52:34[597] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:52:34[598] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:52:34[598] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:52:34[599] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:46[615] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:58:46[618] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:46[619] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:46[619] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:46[619] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:58[100] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:58:58[103] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:58[104] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:58[104] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:58:58[104] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:30[750] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:59:30[755] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:30[755] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:30[756] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:30[756] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:51[389] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 00:59:51[393] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:51[393] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:51[394] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 00:59:51[394] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:05:41[402] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:05:41[406] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:05:41[407] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:05:41[408] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:05:41[408] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:18:53[903] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:18:53[906] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:18:53[906] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:18:53[907] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:18:53[907] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:18:54[248] 耗时【345】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:22:14[482] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:22:14[485] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:22:14[486] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:22:14[486] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:22:14[487] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:22:14[778] 耗时【296】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:22:14[782] 耗时【300】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:24:31[726] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:24:31[729] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:24:31[730] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:24:31[730] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:24:31[730] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:24:31[991] 耗时【265】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:24:31[995] 耗时【269】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:25:15[768] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:25:15[772] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:25:15[772] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:25:15[773] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:25:15[773] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:25:16[025] 耗时【257】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:25:16[030] 耗时【262】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:29:14[391] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:29:14[394] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:29:14[395] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:29:14[396] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:29:14[396] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:29:14[626] 耗时【235】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:29:14[632] 耗时【241】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:31:35[334] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:31:35[337] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:35[337] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:35[338] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:35[338] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:35[607] 耗时【273】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:31:35[612] 耗时【278】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:31:47[704] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:31:47[707] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:47[707] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:47[707] 耗时【3】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:47[708] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:31:47[971] 耗时【267】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:31:47[977] 耗时【273】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:32:09[301] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:32:09[305] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:32:09[306] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:32:09[306] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:32:09[307] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:32:09[581] 耗时【281】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:32:09[588] 耗时【288】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:33:42[961] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:33:42[965] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:33:42[966] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:33:42[966] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:33:42[967] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:33:43[236] 耗时【275】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:33:43[240] 耗时【279】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:35:53[019] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:35:53[022] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:35:53[022] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:35:53[023] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:35:53[023] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:35:53[269] 耗时【250】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:35:53[276] 耗时【257】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:50:14[831] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:50:14[835] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:14[836] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:14[836] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:14[836] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:15[161] 耗时【330】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:50:15[169] 耗时【338】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:50:43[736] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:50:43[740] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:43[741] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:43[741] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:43[742] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:50:44[116] 耗时【380】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:50:44[122] 耗时【386】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:53:41[608] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:53:41[611] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:53:41[611] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:53:41[612] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:53:41[612] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:53:41[897] 耗时【289】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:53:41[905] 耗时【297】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:53:42[024] 耗时【416】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 01:53:42[094] 耗时【486】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 01:53:45[981] 耗时【4373】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 01:55:49[137] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 01:55:49[142] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:55:49[142] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:55:49[143] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:55:49[144] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 01:55:49[435] 耗时【298】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 01:55:49[440] 耗时【303】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 01:55:49[574] 耗时【437】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 01:55:49[691] 耗时【554】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 01:55:52[323] 耗时【3186】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 01:55:52[453] 耗时【3316】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:26:17[585] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:26:17[645] 耗时【60】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:26:17[646] 耗时【61】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:26:17[646] 耗时【61】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:26:17[647] 耗时【62】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:26:18[587] 耗时【1002】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:26:18[623] 耗时【1038】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:26:19[197] 耗时【1612】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:26:19[370] 耗时【1785】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:26:30[839] 耗时【13254】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:26:31[017] 耗时【13432】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:35:52[745] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:35:52[760] 耗时【15】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:35:52[761] 耗时【16】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:35:52[763] 耗时【18】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:35:52[764] 耗时【19】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:35:53[392] 耗时【647】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:35:53[404] 耗时【659】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:35:53[724] 耗时【979】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:35:53[848] 耗时【1103】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:36:45[105] 耗时【52360】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:36:45[175] 耗时【52430】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:37:17[409] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:37:17[413] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:37:17[414] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:37:17[414] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:37:17[415] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:37:17[741] 耗时【332】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:37:17[749] 耗时【340】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:37:17[936] 耗时【527】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:37:18[023] 耗时【614】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:37:23[480] 耗时【6071】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:37:23[545] 耗时【6136】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:36[162] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:42:36[167] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:42:36[168] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:42:36[169] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:42:36[169] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:42:36[510] 耗时【348】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:42:36[519] 耗时【357】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:42:36[659] 耗时【497】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:42:36[753] 耗时【591】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:44[098] 耗时【7936】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:46[119] 耗时【9957】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:50[726] 耗时【14564】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:55[950] 耗时【19788】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:42:57[302] 耗时【21140】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:42:57[376] 耗时【21214】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:45:24[523] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:45:24[529] 耗时【6】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:45:24[531] 耗时【8】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:45:24[533] 耗时【10】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:45:24[533] 耗时【10】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:45:24[829] 耗时【306】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:45:24[836] 耗时【313】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:45:24[968] 耗时【445】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:45:25[116] 耗时【593】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:45:31[669] 耗时【7146】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:45:31[736] 耗时【7213】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:46:06[622] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:46:06[625] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:06[626] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:06[626] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:06[627] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:06[919] 耗时【297】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:46:06[928] 耗时【306】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:46:07[067] 耗时【445】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:46:07[164] 耗时【542】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:46:12[933] 耗时【6311】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:46:13[025] 耗时【6403】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:46:47[845] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:46:47[850] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:47[850] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:47[851] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:47[851] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:46:48[173] 耗时【328】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:46:48[180] 耗时【335】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:46:48[428] 耗时【583】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:46:48[430] 耗时【585】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:46:54[829] 耗时【6984】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:46:54[911] 耗时【7066】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:50:42[142] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:50:42[149] 耗时【7】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:50:42[150] 耗时【8】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:50:42[158] 耗时【16】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:50:42[159] 耗时【17】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:50:42[592] 耗时【450】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:50:42[599] 耗时【457】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:50:42[928] 耗时【786】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:50:42[944] 耗时【802】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:50:48[379] 耗时【6237】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:50:48[500] 耗时【6358】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:51:28[049] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:51:28[053] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:51:28[053] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:51:28[053] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:51:28[054] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:51:28[422] 耗时【373】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:51:28[427] 耗时【378】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:51:28[627] 耗时【578】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:51:28[722] 耗时【673】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:51:31[034] 耗时【2985】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:51:31[119] 耗时【3070】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:54:20[552] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:54:20[556] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:54:20[556] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:54:20[557] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:54:20[557] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:54:20[876] 耗时【324】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:54:20[885] 耗时【333】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:54:21[048] 耗时【496】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:54:21[181] 耗时【629】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:54:27[258] 耗时【6706】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:54:27[351] 耗时【6799】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:55:31[865] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:55:31[870] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:55:31[870] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:55:31[871] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:55:31[871] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:55:32[184] 耗时【319】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:55:32[189] 耗时【324】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:55:32[449] 耗时【584】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:55:32[454] 耗时【589】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:55:38[817] 耗时【6952】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:55:38[898] 耗时【7033】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:56:10[590] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:56:10[594] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:56:10[595] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:56:10[596] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:56:10[596] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:56:10[976] 耗时【386】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:56:10[982] 耗时【392】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:56:11[260] 耗时【670】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:56:11[268] 耗时【678】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:56:16[585] 耗时【5995】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:56:16[667] 耗时【6077】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 15:58:15[366] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 15:58:15[370] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:58:15[371] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:58:15[371] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:58:15[372] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 15:58:15[680] 耗时【314】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 15:58:15[686] 耗时【320】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 15:58:15[827] 耗时【461】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 15:58:15[910] 耗时【544】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 15:58:19[528] 耗时【4162】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 15:58:19[617] 耗时【4251】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:00:12[000] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:00:12[003] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:00:12[003] 耗时【3】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:00:12[004] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:00:12[004] 耗时【4】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:00:12[299] 耗时【299】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:00:12[307] 耗时【307】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:00:12[444] 耗时【444】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:00:12[557] 耗时【557】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:00:32[334] 耗时【20334】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:00:32[418] 耗时【20418】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:08:10[720] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:08:10[723] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:08:10[724] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:08:10[725] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:08:10[726] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:08:11[147] 耗时【427】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:08:11[153] 耗时【433】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:08:11[496] 耗时【776】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:08:11[505] 耗时【785】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:08:13[996] 耗时【3276】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:08:14[120] 耗时【3400】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:12:20[948] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:12:20[955] 耗时【7】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:20[956] 耗时【8】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:20[957] 耗时【9】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:20[957] 耗时【9】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:21[292] 耗时【344】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:12:21[299] 耗时【351】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:12:21[563] 耗时【615】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:12:21[568] 耗时【620】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:12:25[218] 耗时【4270】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:12:25[306] 耗时【4358】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:12:55[916] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:12:55[921] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:55[922] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:55[923] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:55[923] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:12:56[279] 耗时【363】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:12:56[289] 耗时【373】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:12:56[421] 耗时【505】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:12:56[523] 耗时【607】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:13:01[865] 耗时【5949】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:13:01[944] 耗时【6028】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:13:20[405] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:13:20[409] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:13:20[409] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:13:20[410] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:13:20[410] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:13:20[746] 耗时【341】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:13:20[752] 耗时【347】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:13:20[923] 耗时【518】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:13:21[071] 耗时【666】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:13:25[465] 耗时【5060】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:13:25[552] 耗时【5147】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:16:47[029] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:16:47[033] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:16:47[033] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:16:47[034] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:16:47[037] 耗时【8】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:16:47[371] 耗时【342】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:16:47[377] 耗时【348】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:16:47[630] 耗时【601】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:16:47[636] 耗时【607】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:16:53[200] 耗时【6171】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:18:47[500] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:18:47[505] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:18:47[506] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:18:47[507] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:18:47[508] 耗时【8】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:18:47[910] 耗时【410】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:18:47[916] 耗时【416】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:18:48[072] 耗时【572】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:18:48[198] 耗时【698】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:18:57[202] 耗时【9702】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 16:18:58[062] 耗时【10562】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:18:59[263] 耗时【11763】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:19:07[929] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:19:07[933] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:19:07[937] 耗时【9】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:19:07[938] 耗时【10】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:19:07[938] 耗时【10】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:19:08[287] 耗时【359】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:19:08[294] 耗时【366】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:19:08[436] 耗时【508】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:19:08[512] 耗时【584】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:19:37[071] 耗时【29143】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:24:03[863] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:24:03[867] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:24:03[867] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:24:03[868] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:24:03[868] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:24:04[213] 耗时【351】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:24:04[219] 耗时【357】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:24:04[363] 耗时【501】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:24:04[463] 耗时【601】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:24:17[197] 耗时【13335】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:45:04[181] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:45:04[186] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:04[186] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:04[187] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:04[188] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:04[549] 耗时【368】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:45:04[559] 耗时【378】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:45:04[763] 耗时【582】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:45:04[774] 耗时【593】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:45:17[420] 耗时【13239】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:45:39[655] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:45:39[674] 耗时【19】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:39[675] 耗时【20】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:39[677] 耗时【22】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:39[678] 耗时【23】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:45:40[111] 耗时【456】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:45:40[117] 耗时【462】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:45:40[388] 耗时【733】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:45:40[396] 耗时【741】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:45:44[100] 耗时【4445】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:46:29[011] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:46:29[015] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:46:29[016] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:46:29[016] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:46:29[017] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:46:29[353] 耗时【342】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:46:29[362] 耗时【351】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:46:29[556] 耗时【545】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:46:29[586] 耗时【575】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:46:36[892] 耗时【7881】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:47:20[985] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:47:20[989] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:47:20[990] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:47:20[990] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:47:20[991] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:47:21[328] 耗时【343】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:47:21[337] 耗时【352】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:47:21[598] 耗时【613】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:47:21[606] 耗时【621】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:47:25[067] 耗时【4082】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 16:51:39[117] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 16:51:39[121] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:51:39[122] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:51:39[122] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:51:39[123] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 16:51:39[534] 耗时【417】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 16:51:39[543] 耗时【426】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 16:51:39[843] 耗时【726】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 16:51:39[862] 耗时【745】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 16:51:42[986] 耗时【3869】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:06:43[297] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:06:43[301] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:06:43[302] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:06:43[302] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:06:43[303] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:06:43[608] 耗时【312】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:06:43[613] 耗时【317】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:06:43[736] 耗时【440】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:06:43[830] 耗时【534】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:06:46[412] 耗时【3116】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:09:00[137] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:09:00[140] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:09:00[141] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:09:00[142] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:09:00[142] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:09:00[509] 耗时【373】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:09:00[528] 耗时【392】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:09:00[720] 耗时【584】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:09:00[831] 耗时【695】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:09:02[723] 耗时【2587】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:19:58[023] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:19:58[029] 耗时【6】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:19:58[030] 耗时【7】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:19:58[030] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:19:58[031] 耗时【8】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:19:58[436] 耗时【413】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:19:58[445] 耗时【422】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:19:58[639] 耗时【616】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:19:58[731] 耗时【708】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:20:05[886] 耗时【7863】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:20:36[080] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:20:36[085] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:20:36[085] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:20:36[086] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:20:36[086] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:20:36[453] 耗时【373】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:20:36[459] 耗时【379】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:20:36[722] 耗时【642】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:20:36[729] 耗时【649】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:21:01[029] 耗时【24949】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:23:17[128] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:23:17[132] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:23:17[132] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:23:17[133] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:23:17[133] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:23:17[596] 耗时【468】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:23:17[608] 耗时【480】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:23:17[898] 耗时【770】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:23:17[913] 耗时【785】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:23:26[164] 耗时【9036】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:28:32[169] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:28:32[174] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:28:32[174] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:28:32[175] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:28:32[175] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:28:32[538] 耗时【369】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:28:32[545] 耗时【376】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:28:32[814] 耗时【645】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:28:32[816] 耗时【647】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:28:38[458] 耗时【6289】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:35:24[172] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:35:24[179] 耗时【7】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:35:24[182] 耗时【10】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:35:24[184] 耗时【12】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:35:24[186] 耗时【14】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:35:24[554] 耗时【382】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:35:24[562] 耗时【390】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:35:24[893] 耗时【721】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:35:24[902] 耗时【730】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:35:34[599] 耗时【10427】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:57:41[502] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:57:41[509] 耗时【7】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:57:41[509] 耗时【7】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:57:41[510] 耗时【8】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:57:41[510] 耗时【8】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:57:41[870] 耗时【368】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:57:41[878] 耗时【376】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:57:42[160] 耗时【658】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:57:42[169] 耗时【667】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:57:43[004] 耗时【1502】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 17:57:53[238] 耗时【11736】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:59:05[054] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:59:05[057] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:05[058] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:05[058] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:05[059] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:05[518] 耗时【464】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:59:05[531] 耗时【477】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:59:05[812] 耗时【758】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:59:05[893] 耗时【839】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:59:06[819] 耗时【1765】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 17:59:06[822] 耗时【1768】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 17:59:08[646] 耗时【3592】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 17:59:27[873] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 17:59:27[880] 耗时【7】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:27[881] 耗时【8】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:27[886] 耗时【13】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:27[889] 耗时【16】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 17:59:28[322] 耗时【449】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 17:59:28[332] 耗时【459】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 17:59:28[622] 耗时【749】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 17:59:28[629] 耗时【756】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 17:59:34[053] 耗时【6180】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 17:59:34[053] 耗时【6180】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 17:59:43[358] 耗时【15485】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:10:15[596] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:10:15[600] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:15[601] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:15[602] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:15[602] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:15[888] 耗时【292】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:10:15[894] 耗时【298】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:10:16[092] 耗时【496】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:10:16[115] 耗时【519】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:10:17[705] 耗时【2109】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:10:41[392] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:10:41[397] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:41[397] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:41[397] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:41[397] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:10:41[698] 耗时【306】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:10:41[704] 耗时【312】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:10:41[903] 耗时【511】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:10:42[022] 耗时【630】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:10:44[736] 耗时【3344】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:10:44[737] 耗时【3345】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[095] 耗时【4703】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[096] 耗时【4704】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[241] 耗时【4849】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[555] 耗时【5163】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[650] 耗时【5258】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[906] 耗时【5514】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:46[907] 耗时【5515】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[025] 耗时【5633】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[028] 耗时【5636】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[029] 耗时【5637】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[137] 耗时【5745】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[593] 耗时【6201】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[594] 耗时【6202】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[658] 耗时【6266】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[906] 耗时【6514】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[907] 耗时【6515】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:47[993] 耗时【6601】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:48[482] 耗时【7090】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:48[484] 耗时【7092】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:48[537] 耗时【7145】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:49[401] 耗时【8009】 INFO 按键：88 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:49[402] 耗时【8010】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:49[481] 耗时【8089】 INFO 按键：88 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:49[986] 耗时【8594】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:49[987] 耗时【8595】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[121] 耗时【8729】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[706] 耗时【9314】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[707] 耗时【9315】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[793] 耗时【9401】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[969] 耗时【9577】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:50[970] 耗时【9578】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:51[058] 耗时【9666】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:10:52[713] 耗时【11321】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:15:45[991] 耗时【1】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:15:45[995] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:15:45[996] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:15:45[996] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:15:45[999] 耗时【9】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:15:46[396] 耗时【406】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:15:46[401] 耗时【411】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:15:46[652] 耗时【662】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:15:46[659] 耗时【669】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:15:47[961] 耗时【1971】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:15:47[966] 耗时【1976】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:15:50[133] 耗时【4143】 INFO 按键：87 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:15:50[133] 耗时【4143】 INFO 上方向 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:15:50[134] 耗时【4144】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:15:50[223] 耗时【4233】 INFO 按键：87 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:15:50[224] 耗时【4234】 INFO 上方向 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:17[463] 耗时【31473】 INFO 按键：87 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:17[464] 耗时【31474】 INFO 上方向 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:17[465] 耗时【31475】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:17[534] 耗时【31544】 INFO 按键：87 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:17[535] 耗时【31545】 INFO 上方向 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:16:22[728] 耗时【36738】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 18:18:39[079] 耗时【173089】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:18:39[545] 耗时【173555】 INFO 按键：18 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:18:40[168] 耗时【174178】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 18:19:56[936] 耗时【250946】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:19:57[014] 耗时【251024】 INFO 按键：9 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:19:57[607] 耗时【251617】 INFO 按键：18 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:19:57[808] 耗时【251818】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 18:19:58[312] 耗时【252322】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:19:58[398] 耗时【252408】 INFO 按键：9 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:20:01[013] 耗时【255023】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:27:12[737] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:27:12[740] 耗时【3】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:27:12[741] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:27:12[742] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:27:12[743] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:27:13[178] 耗时【441】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:27:13[184] 耗时【447】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:27:13[360] 耗时【623】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:27:13[454] 耗时【717】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:27:14[332] 耗时【1595】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:27:14[336] 耗时【1599】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:27:16[574] 耗时【3837】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:16[666] 耗时【3929】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:21[131] 耗时【8394】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:21[132] 耗时【8395】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:21[226] 耗时【8489】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[058] 耗时【10321】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[059] 耗时【10322】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[178] 耗时【10441】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[722] 耗时【10985】 INFO 按键：71 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[723] 耗时【10986】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:23[859] 耗时【11122】 INFO 按键：71 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[346] 耗时【11609】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[347] 耗时【11610】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[450] 耗时【11713】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[858] 耗时【12121】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[859] 耗时【12122】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:24[930] 耗时【12193】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:26[618] 耗时【13881】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:26[619] 耗时【13882】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:26[706] 耗时【13969】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:30[618] 耗时【17881】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:30[619] 耗时【17882】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:30[674] 耗时【17937】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:36[282] 耗时【23545】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:36[283] 耗时【23546】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:36[354] 耗时【23617】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:27:48[098] 耗时【35361】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:28:26[506] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:28:26[510] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:28:26[511] 耗时【5】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:28:26[512] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:28:26[512] 耗时【6】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:28:26[917] 耗时【411】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:28:26[928] 耗时【422】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:28:27[087] 耗时【581】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:28:27[205] 耗时【699】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:28:28[965] 耗时【2459】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:28:28[966] 耗时【2460】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:28:31[999] 耗时【5493】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:32[000] 耗时【5494】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:32[065] 耗时【5559】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:34[234] 耗时【7728】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:34[321] 耗时【7815】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:36[106] 耗时【9600】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:36[106] 耗时【9600】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:36[186] 耗时【9680】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:37[402] 耗时【10896】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:37[403] 耗时【10897】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:37[514] 耗时【11008】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:38[610] 耗时【12104】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:38[610] 耗时【12104】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:38[705] 耗时【12199】 INFO 按键：72 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:28:45[842] 耗时【19336】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:30:12[108] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:30:12[112] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:12[112] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:12[112] 耗时【4】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:12[113] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:12[393] 耗时【285】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:30:12[397] 耗时【289】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:30:12[620] 耗时【512】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:30:12[625] 耗时【517】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:30:13[580] 耗时【1472】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:30:13[582] 耗时【1474】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:30:15[525] 耗时【3417】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:15[526] 耗时【3418】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:15[585] 耗时【3477】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[578] 耗时【5470】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[665] 耗时【5557】 INFO 按键：16 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[914] 耗时【5806】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[915] 耗时【5807】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[938] 耗时【5830】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:17[938] 耗时【5830】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[049] 耗时【5941】 INFO 按键：65 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[090] 耗时【5982】 INFO 按键：83 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[585] 耗时【6477】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[586] 耗时【6478】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[641] 耗时【6533】 INFO 按键：68 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[986] 耗时【6878】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:18[987] 耗时【6879】 INFO 按键：0 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:19[097] 耗时【6989】 INFO 按键：70 线程【AWT-EventQueue-0】方法【postProcessKeyEvent】类名【view.MyWindow】
+time: 2017-11-10 18:30:20[473] 耗时【8365】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:30:47[216] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:30:47[221] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:47[222] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:47[222] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:47[223] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:30:47[650] 耗时【434】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:30:47[659] 耗时【443】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:30:47[910] 耗时【694】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:30:47[962] 耗时【746】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:30:48[993] 耗时【1777】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:30:48[994] 耗时【1778】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:30:58[353] 耗时【11137】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:31:01[421] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:31:01[427] 耗时【6】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:31:01[427] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:31:01[428] 耗时【7】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:31:01[428] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:31:01[823] 耗时【402】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:31:01[829] 耗时【408】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:31:02[114] 耗时【693】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:31:02[120] 耗时【699】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:31:09[105] 耗时【7684】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:36:55[500] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:36:55[508] 耗时【8】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:36:55[508] 耗时【8】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:36:55[508] 耗时【8】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:36:55[509] 耗时【9】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:36:55[952] 耗时【452】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:36:55[962] 耗时【462】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:36:56[109] 耗时【609】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:36:56[242] 耗时【742】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:37:00[135] 耗时【4635】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:37:00[135] 耗时【4635】 INFO 给ganme-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:37:03[222] 耗时【7722】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:38:43[649] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:38:43[655] 耗时【6】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:38:43[656] 耗时【7】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:38:43[658] 耗时【9】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:38:43[658] 耗时【9】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:38:44[094] 耗时【445】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:38:44[103] 耗时【454】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:38:44[307] 耗时【658】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:38:44[438] 耗时【789】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:38:45[420] 耗时【1771】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:38:45[422] 耗时【1773】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:38:47[860] 耗时【4211】 INFO 按键：16 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.GamePanel】
+time: 2017-11-10 18:38:47[861] 耗时【4212】 INFO game按键：16 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:38:47[962] 耗时【4313】 INFO 按键：16 线程【AWT-EventQueue-0】方法【keyReleased】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[151] 耗时【4502】 INFO 按键：83 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[151] 耗时【4502】 INFO game按键：83 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:38:48[158] 耗时【4509】 INFO 按键：0 线程【AWT-EventQueue-0】方法【keyTyped】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[270] 耗时【4621】 INFO 按键：83 线程【AWT-EventQueue-0】方法【keyReleased】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[271] 耗时【4622】 INFO 按键：65 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[272] 耗时【4623】 INFO game按键：65 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:38:48[272] 耗时【4623】 INFO 按键：0 线程【AWT-EventQueue-0】方法【keyTyped】类名【view.GamePanel】
+time: 2017-11-10 18:38:48[366] 耗时【4717】 INFO 按键：65 线程【AWT-EventQueue-0】方法【keyReleased】类名【view.GamePanel】
+time: 2017-11-10 18:38:49[374] 耗时【5725】 INFO 按键：70 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.GamePanel】
+time: 2017-11-10 18:38:49[375] 耗时【5726】 INFO game按键：70 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:38:49[376] 耗时【5727】 INFO 按键：0 线程【AWT-EventQueue-0】方法【keyTyped】类名【view.GamePanel】
+time: 2017-11-10 18:38:49[462] 耗时【5813】 INFO 按键：70 线程【AWT-EventQueue-0】方法【keyReleased】类名【view.GamePanel】
+time: 2017-11-10 18:38:50[487] 耗时【6838】 INFO 按键：68 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.GamePanel】
+time: 2017-11-10 18:38:50[488] 耗时【6839】 INFO game按键：68 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:38:50[489] 耗时【6840】 INFO 按键：0 线程【AWT-EventQueue-0】方法【keyTyped】类名【view.GamePanel】
+time: 2017-11-10 18:38:50[567] 耗时【6918】 INFO 按键：68 线程【AWT-EventQueue-0】方法【keyReleased】类名【view.GamePanel】
+time: 2017-11-10 18:38:57[605] 耗时【13956】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:39:42[172] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:39:42[183] 耗时【11】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:39:42[184] 耗时【12】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:39:42[187] 耗时【15】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:39:42[188] 耗时【16】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:39:42[640] 耗时【468】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:39:42[646] 耗时【474】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:39:42[835] 耗时【663】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:39:42[975] 耗时【803】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:39:43[846] 耗时【1674】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:39:43[848] 耗时【1676】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:39:45[475] 耗时【3303】 INFO game按键：16 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:39:47[510] 耗时【5338】 INFO game按键：68 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:39:48[974] 耗时【6802】 INFO game按键：70 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:39:49[831] 耗时【7659】 INFO game按键：71 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:39:51[421] 耗时【9249】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 18:47:08[395] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 18:47:08[400] 耗时【5】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:47:08[401] 耗时【6】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:47:08[401] 耗时【6】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:47:08[402] 耗时【7】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 18:47:08[728] 耗时【333】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 18:47:08[737] 耗时【342】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 18:47:08[889] 耗时【494】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 18:47:08[962] 耗时【567】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:47:14[239] 耗时【5844】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:47:14[239] 耗时【5844】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 18:47:17[467] 耗时【9072】 INFO game按键：16 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:18[579] 耗时【10184】 INFO game按键：87 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:18[580] 耗时【10185】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:21[387] 耗时【12992】 INFO game按键：38 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:21[388] 耗时【12993】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:25[803] 耗时【17408】 INFO game按键：38 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:25[803] 耗时【17408】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:27[923] 耗时【19528】 INFO game按键：65 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:28[740] 耗时【20345】 INFO game按键：18 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:28[941] 耗时【20546】 INFO 窗口失去焦点 线程【AWT-EventQueue-0】方法【windowDeactivated】类名【view.MyWindow】
+time: 2017-11-10 18:47:31[134] 耗时【22739】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 18:47:31[747] 耗时【23352】 INFO game按键：38 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:31[748] 耗时【23353】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 18:47:34[658] 耗时【26263】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
+time: 2017-11-10 19:00:18[509] 耗时【0】 INFO hello log4j 线程【main】方法【t2】类名【init.EnvironmentInit】
+time: 2017-11-10 19:00:18[513] 耗时【4】 INFO log4j init finished 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 19:00:18[513] 耗时【4】 INFO 加载数据文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 19:00:18[514] 耗时【5】 INFO 加载资源文件 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 19:00:18[514] 耗时【5】 INFO start window 线程【main】方法【main】类名【main.Main】
+time: 2017-11-10 19:00:18[842] 耗时【333】 INFO 初始化主窗体 线程【main】方法【init】类名【view.MyWindow】
+time: 2017-11-10 19:00:18[850] 耗时【341】 INFO 构造菜单面板单例. 线程【main】方法【<init>】类名【view.MenuPanel】
+time: 2017-11-10 19:00:19[001] 耗时【492】 INFO 窗口打开后 线程【AWT-EventQueue-0】方法【windowOpened】类名【view.MyWindow】
+time: 2017-11-10 19:00:19[068] 耗时【559】 INFO 激活窗口 线程【AWT-EventQueue-0】方法【windowActivated】类名【view.MyWindow】
+time: 2017-11-10 19:00:20[578] 耗时【2069】 INFO 进行面板切换 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 19:00:20[579] 耗时【2070】 INFO 给game-panel添加按键响应 线程【AWT-EventQueue-0】方法【panelSwitch】类名【view.MyWindow】
+time: 2017-11-10 19:00:28[827] 耗时【10318】 INFO game按键：100 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:28[828] 耗时【10319】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:28[982] 耗时【10473】 INFO game按键：101 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:28[983] 耗时【10474】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:29[877] 耗时【11368】 INFO game按键：98 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:29[881] 耗时【11372】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:30[590] 耗时【12081】 INFO game按键：97 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:30[591] 耗时【12082】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:30[894] 耗时【12385】 INFO game按键：99 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:30[894] 耗时【12385】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:31[341] 耗时【12832】 INFO game按键：101 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:31[342] 耗时【12833】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:31[878] 耗时【13369】 INFO game按键：100 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:31[878] 耗时【13369】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:32[390] 耗时【13881】 INFO game按键：104 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:32[390] 耗时【13881】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:33[238] 耗时【14729】 INFO game按键：102 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:33[238] 耗时【14729】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:34[717] 耗时【16208】 INFO game按键：37 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:34[718] 耗时【16209】 INFO 蛇向左 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:35[966] 耗时【17457】 INFO game按键：39 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:35[966] 耗时【17457】 INFO 蛇向右 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:36[901] 耗时【18392】 INFO game按键：40 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:36[902] 耗时【18393】 INFO 蛇向下 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:37[741] 耗时【19232】 INFO game按键：38 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:37[743] 耗时【19234】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:40[246] 耗时【21737】 INFO game按键：16 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:40[246] 耗时【21737】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:42[398] 耗时【23889】 INFO game按键：65 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:42[398] 耗时【23889】 INFO 蛇向左 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:43[806] 耗时【25297】 INFO game按键：83 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:43[806] 耗时【25297】 INFO 蛇向下 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:45[094] 耗时【26585】 INFO game按键：68 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:45[094] 耗时【26585】 INFO 蛇向右 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:46[157] 耗时【27648】 INFO game按键：87 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:46[158] 耗时【27649】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:47[062] 耗时【28553】 INFO game按键：20 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:47[062] 耗时【28553】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:48[328] 耗时【29819】 INFO game按键：65 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:48[328] 耗时【29819】 INFO 蛇向左 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:49[312] 耗时【30803】 INFO game按键：83 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:49[313] 耗时【30804】 INFO 蛇向下 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:50[053] 耗时【31544】 INFO game按键：68 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:50[054] 耗时【31545】 INFO 蛇向右 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:50[679] 耗时【32170】 INFO game按键：87 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:50[679] 耗时【32170】 INFO 蛇向上 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:51[517] 耗时【33008】 INFO game按键：20 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:51[518] 耗时【33009】 INFO 程序用不到这个按键 线程【AWT-EventQueue-0】方法【keyPressed】类名【view.MyWindow】
+time: 2017-11-10 19:00:57[964] 耗时【39455】 INFO 窗口正关闭 线程【AWT-EventQueue-0】方法【windowClosing】类名【view.MyWindow】
